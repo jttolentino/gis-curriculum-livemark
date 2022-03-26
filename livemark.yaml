@@ -1,5 +1,5 @@
 brand:
-  text: Livemark Project
+  text: GIS Curriculum
 about:
   text: A Livemark project template
 github:
@@ -8,11 +8,11 @@ github:
 topics:
   selector: h2
 site:
-  favicon: assets/favicon.ico
+  favicon: assets/img/favicon.ico
   styles:
-    - style.css
+    - assets/css/style.css
   scripts:
-    - script.js
+    - assets/js/script.js
 pages:
   items:
     - path: index
